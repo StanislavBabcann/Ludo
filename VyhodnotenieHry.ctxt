@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VyhodnotenieHry
+comment0.text=\r\n\ \ Trieda\ VyhodnotenieHry.\r\n\ \r\n\ @author\ (Babcan)\r\n\ @version\ (7.1.2021)\r\n
+comment1.params=
+comment1.target=VyhodnotenieHry()
+comment1.text=\r\n\ konstruktor\ triedy\ VyhodnotenieHry\r\n\ inicializuje\ atribut\ triedy\ na\ danu\ hodnotu\r\n
+comment2.params=meno
+comment2.target=void\ priradMiesto(java.lang.String)
+comment2.text=\r\n\ priradi\ danemu\ hracovi\ miesto\ v\ poradii\r\n\ @param\ meno\ je\ meno\ hraca\r\n
+comment3.params=
+comment3.target=void\ vypisVyhodnotenie()
+comment3.text=\r\n\ po\ dokonceni\ hry\ zobrazi\ na\ obrazovke\ okno\ s\ poradim\ hracov\r\n
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Figurka
+comment0.text=\r\n\ \ Trieda\ Figurka.\r\n\ \r\n\ @author\ (Babcan)\r\n\ @version\ (7.1.2021)\r\n
+comment1.params=paFarba\ paPoradoveCislo\ paPoziciaFigurky
+comment1.target=Figurka(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ konstruktor\ triedy\ Figurka\ s\ parametrami\ -\ vytvori\ figurku\ s\ danymi\ parametrami\r\n\ @param\ paFarba\ je\ farba\ figurky\r\n\ @param\ paPoradoveCislo\ je\ poradove\ cislo\ figurky\r\n\ @param\ paPoziciaFigurky\ je\ pozicia,\ na\ ktorej\ sa\ bude\ figurka\ nachadzat\r\n
+comment2.params=
+comment2.target=int\ getPoradoveCislo()
+comment2.text=\r\n\ @return\ vrati\ poradove\ cislo\ figurky\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFarba()
+comment3.text=\r\n\ @return\ vrati\ farbu\ figurky\r\n
+comment4.params=
+comment4.target=int\ getPozicia()
+comment4.text=\r\n\ @return\ vrati\ poziciu\ figurky\r\n
+comment5.params=paPozicia
+comment5.target=void\ setPozicia(int)
+comment5.text=\r\n\ nastavi\ atribut\ poziciaFigurky\ na\ novu\ hodnotu\r\n\ @param\ paPozicia\ je\ nova\ hodnota\ pre\ atribut\ poziciaFigurky\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n@return\ vrati\ atributy\ farba,\ poradoveCislo,\ poziciaFigurky\ v\ formate\ String\r\n
+comment7.params=
+comment7.target=Kruh\ getGrafickeZobrazenie()
+comment7.text=\r\n@return\ vrati\ atribut\ grafickeZobrazenie\r\n
+numComments=8

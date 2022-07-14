@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Trieda\ {@code\ Test}\ sl\u00FA\u017Ei\ na\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \u00ABmeno\ autora\u00BB\r\n\ @version\ \ \u00ABverzia\ alebo\ d\u00E1tum\u00BB\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Kon\u0161truktory\ objektov\ triedy\ Test.\r\n
+comment2.params=y
+comment2.target=int\ pr\u00EDkladMet\u00F3dy(int)
+comment2.text=\r\n\ Pr\u00E1zdna\ met\u00F3da\ \u2013\ \u00ABtento\ koment\u00E1r\ nahra\u010Fte\ vlastn\u00FDm\ opisom\u00BB\u2026\r\n\r\n\ @param\ \ \ y\ \ opis\ v\u00FDznamu\ parametra\r\n\ @return\ \ \ \ \ opis\ v\u00FDznamu\ n\u00E1vratovej\ hodnoty\ \u2013\ napr.\:\ s\u00FA\u010Det\ x\ a\u00A0y\r\n
+numComments=3

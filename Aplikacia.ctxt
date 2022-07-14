@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Aplikacia
+comment0.text=\r\n\ \ Trieda\ Aplikacia.\r\n\r\n\ @author\ (Babcan)\r\n\ @version\ (7.1.2021)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ metoda\ main\r\n\ po\ spusteni\ zobrazi\ okno,\ v\ ktorom\ sa\ zada\ pocet\ hracov\r\n\ nasledne\ zobrazi\ dalsie\ okno,\ v\ ktorom\ si\ hraci\ zvolia\ mena\ a\ farby\r\n\ ako\ vytvorit\ okno\ s\ moznostou\ zadania\ viacerych\ udajov\ som\ zistil\ na\ stranke\ java2s.com\ (//http\://www.java2s.com/Tutorials/Java/Swing_How_to/JOptionPane/Create_Multiple_input_in_JOptionPane_showInputDialog.htm)\r\n\ v\ pripade,\ ze\ zadane\ udaje\ su\ korektne,\ vytvoria\ sa\ nove\ instancie\ triedy\ Hrac\ a\ pridaju\ sa\ do\ triedy\ Hra\r\n
+comment2.params=vstup
+comment2.target=boolean\ kontrolaVstupu(java.lang.String)
+comment2.text=\r\n\ @return\ vrati\ boolean\ hodnotu\ po\ kontrole\ zadaneho\ vstupu\r\n\ @param\ vstup\ je\ retazec\ String,\ ktory\ sa\ skontroluje\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FarbyRGB
+comment0.text=\r\n\ \ Trieda\ FarbyRGB.\r\n\ \ \r\n\ @author\ (Babcan)\r\n\ @version\ (7.1.2021)\r\n
+comment1.params=farba
+comment1.target=java.awt.Color\ getFarba(java.lang.String)
+comment1.text=\r\n\ @return\ vrati\ prislusnu\ farbu\ podla\ zadaneho\ retazcu\ String\r\n\ @param\ farba\ priradi\ k\ retazcu\ String\ prislusnu\ farbu\r\n
+numComments=2

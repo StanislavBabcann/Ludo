@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FarbaFigurky
+comment0.text=\r\n\ \ Vymenovacia\ trieda\ FarbaFigurky.\r\n\ \r\n\ @author\ (Babcan)\r\n\ @version\ (7.1.2021)\r\n
+comment1.params=paReprezentacia
+comment1.target=FarbaFigurky(java.lang.String)
+comment1.text=\r\n\ konstruktor\ vymenovacej\ triedy\ FarbaFigurky\r\n\ @param\ paReprezentacia\ priradi\ atributu\ reprezentaciu\ vo\ forme\ retazcu\ String\r\n
+comment2.params=
+comment2.target=java.lang.String\ getReprezentacia()
+comment2.text=\r\n\ @return\ vrati\ reprezentaciu\ atributu\r\n
+numComments=3

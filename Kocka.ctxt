@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kocka
+comment0.text=\r\n\ \ Trieda\ Kocka.\r\n\ \ \r\n\ @author\ (Babcan)\r\n\ @verison\ (7.1.2021)\r\n
+comment1.params=
+comment1.target=Kocka()
+comment1.text=\r\n\ konstruktor\ triedy\ Kocka\r\n\ inicializuje\ atributy\ triedy\ na\ dane\ hodnoty\r\n
+comment2.params=
+comment2.target=void\ hodKockou()
+comment2.text=\r\n\ vygeneruje\ nahodne\ cislo\ v\ rozsahu\ 1-6\r\n
+comment3.params=
+comment3.target=int\ dajHodenuHodnotu()
+comment3.text=\r\n\ @return\ vrati\ hodnotu\ atrubutu\ hodenaHodnota\r\n
+comment4.params=
+comment4.target=void\ zobrazKocku()
+comment4.text=\r\n\ zobrazi\ kocku\ na\ platne\r\n\ na\ zaklade\ hodenej\ hodnoty\ rozmiestni\ bodky\ po\ kocke\r\n
+comment5.params=
+comment5.target=void\ vytvorBodky()
+comment5.text=\r\n\ vytvori\ bodky\ na\ kocku\ na\ zaklade\ hodnoty\ atributu\ hodenaHodnota\r\n
+numComments=6
